@@ -84,6 +84,16 @@ The analyses were performed in R using packages including:
 
 Additional package dependencies are specified in the individual scripts.
 
+## Software References
+
+The analyses in this repository were performed using the following R packages:
+
+- **Seurat:** Hao, Y., et al. (2021). Integrated analysis of multimodal single-cell data. Cell, 184(13), 3573–3587.e29. https://doi.org/10.1016/j.cell.2021.04.048
+
+- **CellChat:** Jin, S., et al. (2021). Inference and analysis of cell-cell communication using CellChat. Nature Communications, 12, 1088. https://doi.org/10.1038/s41467-021-21246-9
+
+- **enrichR:** Kuleshov, M. V., et al. (2016). Enrichr: a comprehensive gene set enrichment analysis web server 2016 update. Nucleic Acids Research, 44(W1), W90–W97. https://doi.org/10.1093/nar/gkw377
+
 ## Usage Notes
 
 The scripts are provided to document the computational analyses performed in the study and facilitate reuse of the analysis methods.
