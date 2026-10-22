@@ -1,5 +1,7 @@
 library(Seurat)
 library(dplyr)
+library(scCustomize)
+
 save.dir = "/home/labs/olenderlab/lvzvia/zelzer/Ron_scRNA_Nov22/scRNAseq_2/analysis"
 output_seurat = paste(save.dir,"/seurat_obj_jan23.rds",sep="")
 #---------------------------------------------------------------------------------
