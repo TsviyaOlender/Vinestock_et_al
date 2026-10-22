@@ -6,6 +6,8 @@ library(patchwork)
 library(rio)
 library(grid)
 library(gridExtra)
+library(scCustomize)
+##
 source("function_enrichR.R")
 save.dir = "/home/labs/olenderlab/lvzvia/zelzer/Ron_scRNA_Nov22/scRNAseq_2/analysis"
 output_seurat = paste(save.dir,"/seurat_obj_jan23.rds",sep="")
